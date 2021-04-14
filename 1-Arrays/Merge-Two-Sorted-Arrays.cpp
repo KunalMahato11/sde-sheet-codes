@@ -47,7 +47,6 @@ void merge1(vector<int> &X, vector<int> &Y, int m, int n)
 		{
 			swap(X[i], Y[0]);
 			int first = Y[0];
-            cout << first << "\n\n";
 			int k;
 			for (k = 1; k < n && Y[k] < first; k++) {
 				Y[k - 1] = Y[k];
