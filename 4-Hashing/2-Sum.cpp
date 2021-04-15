@@ -1,6 +1,6 @@
 /**
  * Time: O(n)
- * Space: O(1)
+ * Space: O(n)
  */ 
 
 vector<int> twoSum(vector<int> &nums, int target)

@@ -1,6 +1,6 @@
 /**
  * Time: O(nlog(n))
- * Space: O(1)
+ * Space: O(n)
  */ 
 
 int solve(vector<int> A, int B)
